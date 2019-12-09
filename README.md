@@ -2,6 +2,6 @@
 
 Actions courtesey of : https://imgbot.net/
 
-![Aniva lighthouse on Sakhalin, Russia](https://upload.wikimedia.org/wikipedia/commons/3/35/%D0%9C%D0%B0%D1%8F%D0%BA_%D0%90%D0%BD%D0%B8%D0%B2%D0%B0.jpg)
+![image](https://user-images.githubusercontent.com/47535567/70480227-cd53c780-1aa4-11ea-9406-ce6859f35086.png)
 
 Image automaticalliy optimized using ImgBot
